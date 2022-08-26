@@ -11,7 +11,7 @@
 
 //CODE HERE
 
-let gitDefinition = "";
+let gitDefinition = "A program to manage your code with commit histories and version control. It allows individuals and teams to track changes (commits) and code projects, prevents bugs and loss of progress, and view project history.";
 
 //////////////////PROBLEM 2////////////////////
 /*
@@ -21,7 +21,7 @@ let gitDefinition = "";
 
 //CODE HERE
 
-let gitHubDefinition = "";
+let gitHubDefinition = "A tool/website that implements git to enable software engineers to collaborate and store their code in a central location accessible from any machine.";
 
 //////////////////PROBLEM 3////////////////////
 /*
@@ -31,7 +31,7 @@ let gitHubDefinition = "";
 
 //CODE HERE
 
-let gitInitDefinition = "";
+let gitInitDefinition = "git init initializes and connects a local folder to a remote repository.";
 
 //////////////////PROBLEM 4////////////////////
 /*
@@ -41,7 +41,7 @@ let gitInitDefinition = "";
 
 //CODE HERE
 
-let gitCloneDefinition = "";
+let gitCloneDefinition = "git clone copies a remote repository to your local machine.";
 
 //////////////////PROBLEM 5////////////////////
 /*
@@ -51,7 +51,7 @@ let gitCloneDefinition = "";
 
 //CODE HERE
 
-let gitStatusDefinition = "";
+let gitStatusDefinition = "git status checks to see if there are any changes made on your local machine compared to the remote repository.";
 
 //////////////////PROBLEM 6////////////////////
 /*
@@ -64,7 +64,7 @@ let gitStatusDefinition = "";
 
 //CODE HERE
 
-let gitAddDefinition = "";
+let gitAddDefinition = "git add tracks and adds changes made from your local machine to be committed and pushed to a remote repository.";
 
 //////////////////PROBLEM 7////////////////////
 /*
@@ -77,7 +77,7 @@ let gitAddDefinition = "";
 
 //CODE HERE
 
-let gitCommitDefinition = "";
+let gitCommitDefinition = "git commit takes the changes that you added and prepares a commit to be pushed to the remote repository.";
 
 
 //////////////////PROBLEM 8////////////////////
@@ -88,4 +88,4 @@ let gitCommitDefinition = "";
 
 //CODE HERE
 
-let gitPushDefinition = "";
+let gitPushDefinition = "git push pushes your changes that you previously added and committed to the remote repository.";
