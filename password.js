@@ -1,8 +1,7 @@
 let password = "RubberDuck2";
 
-let alphabet = "abcdefghijklmnopqrstuvwxxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
-
 // Checking if password has a letter
+let alphabet = "abcdefghijklmnopqrstuvwxxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
 let hasLetter = false;
 for (let i = 0; i < password.length; i++) {
     if (alphabet.indexOf(password[i]) > 0) {
