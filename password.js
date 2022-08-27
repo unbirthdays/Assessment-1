@@ -30,10 +30,11 @@ if (password.indexOf(" ") > 0) {
 // Checking for no forbidden words (and some extra ones I thought was appropriate)
 let forbiddenWord = ["letmein", "password", "opensesame", "guest", "1234567890"];
 let isForbidden = false;
-for (i = 0; i < forbiddenWord.length - 1; i++) {
+for (let i = 0; i < forbiddenWord.length; i++) {
     if (password === forbiddenWord[i])
     {
         isForbidden = true;
+        break;
     }
 }
 
